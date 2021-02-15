@@ -1,4 +1,4 @@
-# Example Progress Journal
+# Progress Journal
 ## Homework 0
 5 interesting [Examples](files/Homework0.html)
 ## Homework 1
